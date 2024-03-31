@@ -44,6 +44,8 @@ dependencies {
     //MongoDB
     //implementation("org.mongodb:mongodb-driver-sync:$kmongo_version")
     implementation("org.litote.kmongo:kmongo:$kmongo_version")
+    implementation("org.litote.kmongo:kmongo-async:$kmongo_version")
+    implementation("org.litote.kmongo:kmongo-coroutine:$kmongo_version")
     //Codec
     implementation("commons-codec:commons-codec:$codec_version")
 

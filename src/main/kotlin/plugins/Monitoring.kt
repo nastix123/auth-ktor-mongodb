@@ -1,4 +1,4 @@
-package .plugins
+package plugins
 
 import com.codahale.metrics.*
 import io.ktor.server.application.*
